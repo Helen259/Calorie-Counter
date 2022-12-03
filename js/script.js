@@ -6,7 +6,6 @@ const age = document.querySelector('#age');
 const height = document.querySelector('#height');
 const weight = document.querySelector('#weight');
 
-
 const activities = document.querySelector('.radios-group');
 const calcButton = document.querySelector('.form__submit-button');
 const resetButton = document.querySelector('.form__reset-button');
